@@ -1,0 +1,68 @@
+body {
+    background-image: url("https://media.istockphoto.com/photos/monochrome-texture-with-white-and-gray-color-picture-id1138782666?k=6&m=1138782666&s=612x612&w=0&h=yxW7wRHOVZ5eA3aCnfNq3c5vorKgo2zmNuoIK0DFiao=");
+}
+
+h1 {
+    background-image: linear-gradient(to top, #ff0000, #996633);
+   text-align:center;
+    font-size: 3.2em;
+    padding: 25px;
+    border: outset grey;
+    font-family: 'Goldman', cursive;
+    color: #000000;
+
+}
+
+h2 {
+   color:white;
+     text-align:center;
+    border:double ;
+        margin:15px;
+        padding:15px;
+      font-family: 'Goldman', cursive;
+    Background-image: url("https://i.pinimg.com/originals/ce/2b/78/ce2b78a05838ef311c0868bb2fca0494.gif");
+}
+
+p {
+    text-align: center;
+}
+.red{ padding: 2px;
+    border: 4px inset gold;
+    background-color: #F41010;
+    font-family: 'Big Shoulders Stencil Display', cursive;
+}
+.gold{
+  padding: 2px;
+    border: 4px outset red;
+    background-color: #FFD700;
+    font-family: 'Big Shoulders Stencil Display', cursive;}
+
+.imgages {
+    display: none;
+}
+
+.obj {
+    width: 500px;
+    height: 600px;
+    text-align: center;
+    margin: 25px;
+}
+
+.Legoat {
+    width: 500px;
+    height: 600px;
+    text-align: center;
+    margin: 25px;
+}
+
+.Ronaldo {
+    width: 500px;
+    height: 600px;
+    margin: 25px;
+}
+
+.Mookie {
+    width: 500px;
+    height: 500px;
+    margin: 25px;
+}
